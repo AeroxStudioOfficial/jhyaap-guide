@@ -1,7 +1,7 @@
 # 💀 JHYAAP GANG WAR MANUAL: The Official Guide
 
 <div align="center">
-  <img src="https://i.ibb.co/5R0vj9S/logo.png" alt="Jhyaap Logo" width="150">
+  <img src="https://firebasestorage.googleapis.com/v0/b/jhyaap-app.firebasestorage.app/o/images%2Fjhyaap_logo.png?alt=media&token=5d736c05-ee1a-42ad-8ee1-b3eb70ea49f4" alt="Jhyaap Logo" width="150">
   <h1>WELCOME TO THE BATTLEFIELD ⚔️</h1>
   <p><strong>Season 2 is LIVE. Everyone starts at 0. Who will be the King?</strong></p>
   
@@ -76,4 +76,5 @@ A: One Device = One ID. If you try to hack, the system bans you.
 <div align="center">
   <h3>🇳🇵 Made with ❤️ by Aerox Studio</h3>
   <p>Jhyaap is Nepal's #1 Meme Soundboard.</p>
+
 </div>
