@@ -1,7 +1,4 @@
-Here is the updated **Master README / Manual** for Jhyaap v2.2.
-I have added the **Black Market**, **Hellfire Streaks**, **UGC (Uploads)**, and the **New Rank Hierarchy**.
 
-***
 
 # 💀 JHYAAP GANG WAR MANUAL: v2.2 (The Economy Update)
 
@@ -100,3 +97,4 @@ A: No. Grind your own XP.
   <h3>🇳🇵 Made with ❤️ by Aerox Studio</h3>
   <p>Jhyaap is Nepal's #1 Social Soundboard Ecosystem.</p>
 </div>
+
